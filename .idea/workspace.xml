@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757c1a15-8632-4f65-b5cf-1376f98a13d9" name="Changes" comment="" />
+    <list default="true" id="757c1a15-8632-4f65-b5cf-1376f98a13d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/.idea/lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/hw/hw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/hw/hw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/hw/hw3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +34,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2mpaBHv2y0o0PHNTm2LmCnZMvJ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,7 +47,9 @@
   "keyToString": {
     "Python.lesson_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ThinkPad/PycharmCourse"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [

@@ -22,10 +22,9 @@ class Car:
         return f'{self.model} {self.year}'
 
 
-
 # обьект\экземпляр
 mers=Car('bmw',1999)
 mers2=Car('312',2010)
 
-
+print(mers)
 print(mers2)

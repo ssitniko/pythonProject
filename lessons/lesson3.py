@@ -28,16 +28,17 @@ class Bank(object):
                 f'age:{self._age}\n'
                 f'balance:{self.__balance}\n')
 
+if __name__== '__main__':
 
-beka = Bank('beka', 18, 1000)
-# beka.name = 'Bekbolot'
-beka._age=99
-beka.__balance = 2000
-print(beka)
-print(dir(beka))
-# beka._age=199
-# beka.set_age(19)
-# print(beka)
+    beka = Bank('beka', 18, 1000)
+    # beka.name = 'Bekbolot'
+    beka._age=99
+    beka.__balance = 2000
+    print(beka)
+    print(dir(beka))
+    # beka._age=199
+    # beka.set_age(19)
+    # print(beka)
 
 # class Bank:
 #     def __init__(self, name, balance):
