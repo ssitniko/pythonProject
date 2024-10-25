@@ -44,8 +44,8 @@ with sq.connect('person.db') as con:
     print()
 
     cursor.execute('''SELECT employees.firstname, employees.lastname, departments.department_name
-        FROM departments
-        JOIN employees ON employees.department_id = departments.department_id WHERE departments.department_name = 'IT' ''')
+        FROM employees
+        JOIN departments ON employees.department_id = departments.department_id WHERE departments.department_name = 'IT' ''')
 
     for row in cursor:
         print(row)
